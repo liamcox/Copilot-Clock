@@ -1,6 +1,6 @@
 # My React App
 
-This is a React application that serves as a starting point for building a web application using React.
+A React application that serves as a starting point for building a web application using React.
 
 ## Project Structure
 
